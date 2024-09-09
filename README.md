@@ -362,4 +362,3 @@ Pour que les deux composants s’affichent de la même manière et se mettent à
 Dans cet exemple, il s’agit de :MyApp
 
 
-# my-app-react
